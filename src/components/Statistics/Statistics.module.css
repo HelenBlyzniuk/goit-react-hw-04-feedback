@@ -1,0 +1,12 @@
+
+.statistics{
+    list-style: none;
+    color:rgb(10, 59, 59);
+    font-size:25px;
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+
+.statistics_item{
+    margin-bottom:10px;
+}
